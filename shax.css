@@ -1,0 +1,43 @@
+#basti {
+    width: 640px;
+    height: 640px;
+    border: 5px solid black ; 
+}
+#sq {
+    background: radial-gradient(yellow,red);
+    width: 80px;
+    height: 80px;
+   
+}
+
+#kara {
+     width: 80px;
+    height: 80px;
+    background: radial-gradient(blue,yellow);
+}
+.k1 {
+    float: left;
+}
+
+.k2 {
+    float: left;
+}
+
+.k3 {
+    float: left;
+}
+.k4 {
+    float: left;
+}
+.k5 {
+    float: left;
+}
+.k6 {
+    float: left;
+}
+.k7 {
+    float: left;
+}
+.k8 {
+    float: left;
+}

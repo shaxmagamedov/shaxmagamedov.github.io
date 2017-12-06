@@ -1,0 +1,104 @@
+#body{
+	background-image: url(2.jpg);
+	background-repeat: no-repeat;
+	
+}
+.main-menu { 
+width: 180px; 
+margin: 0; 
+padding: 0; 
+list-style: none; 
+} 
+
+.main-menu a { 
+display: block; 
+padding: 8px 14px; 
+text-decoration: none; 
+color: blue; 
+border: 1px solid ; 
+} 
+
+.main-menu a:hover { 
+background: #f5f5f5; 
+} 
+
+.main-menu > li { 
+position: relative; 
+} 
+
+.main-menu .sub-menu { 
+position: absolute; 
+top: 10px; 
+left: 180px; 
+z-index: 10; 
+display: none; 
+width: 150px; 
+margin: 0; 
+padding: 0; 
+list-style: none; 
+background: #fcf8e3; 
+} 
+.main-menu > li:hover .sub-menu { 
+display: block; 
+} 
+.sub-menu .podmenu { 
+position: absolute; 
+top: 10px; 
+left: 150px; 
+z-index: 10; 
+display: none; 
+width: 150px; 
+margin: 0; 
+padding: 0; 
+list-style: none; 
+background: #fcf8e3; 
+} 
+.sub-menu > li:hover .podmenu { 
+display: block; 
+}
+#body2{
+background-image: url(5.jpg);
+background-repeat: no-repeat;
+}
+#at{
+color: blue;
+font-size: 10px;
+background-color: black;
+padding: 10px;
+border-radius: 20px;
+text-transform: uppercase;
+cursor: pointer;
+}
+#at1{
+color: blue;
+font-size: 15px;
+background-color: red;
+padding: 5px;
+border-radius: 20px;
+text-transform: uppercase;
+cursor: pointer;
+text-decoration: none;
+	color: white;
+}
+#at2{
+color: blue;
+font-size: 15px;
+background-color: black;
+padding: 5px;
+border-radius: 20px;
+text-transform: uppercase;
+cursor: pointer;
+text-decoration: none;
+	color: white;
+}
+body{
+	background-image: url(sy2.jpg);  
+}
+#we{
+	font-size: 30px;
+	color: purple;
+}
+a{
+	text-decoration: none;
+	color: white;
+}

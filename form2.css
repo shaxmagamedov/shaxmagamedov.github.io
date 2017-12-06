@@ -1,0 +1,20 @@
+label{
+
+	width: 100px;
+	height: 100px;
+	font-size: 25px;
+background: black;
+Color: white;
+border-radius: 20px 20px 20px 20px;
+width: 200px;
+}
+p {
+font-size: 25px;
+background: black;
+Color: white;
+border-radius: 20px 20px 20px 20px;
+width: 200px;
+}
+#body{
+	background-image: url(2.jpg);
+}
