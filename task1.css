@@ -12,7 +12,8 @@ span{
 }
 
 body{
-	background: linear-gradient(#35ce94,#59adea);
+	background-image: url(2.jpg);
+	background-repeat: no-repeat;
 	font-size:15px;
     display: inline-block;
     color: white;
