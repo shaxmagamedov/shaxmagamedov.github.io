@@ -69,6 +69,15 @@ border-radius: 20px;
 text-transform: uppercase;
 cursor: pointer;
 }
+#ata{
+color: blue;
+font-size: 10px;
+background-color: red;
+padding: 10px;
+border-radius: 20px;
+text-transform: uppercase;
+cursor: pointer;
+}
 #at1{
 color: blue;
 font-size: 15px;
@@ -101,4 +110,56 @@ body{
 a{
 	text-decoration: none;
 	color: white;
+}
+#rasul1{
+	color: white;
+	font-size: 35px;
+	background-color: black;
+	padding: 10px;
+	border-radius: 50px ;
+	text-transform: uppercase;
+}
+#trt{
+	background: white;
+}
+#rasul2{
+	background-image: url(rasul.jpg);
+	background-size: contain;
+	width: 360px;
+	height: 480px;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	border-radius: 20px;
+	border: 5px solid black;
+}
+#rasul4{
+	background: #30f060;
+	width: 170px;
+	height: 20px;
+	padding: 5px;
+	border-radius: 5px;
+	position: absolute;
+	top:21%;
+	left: 26%;
+}
+#rasul5{
+	width: 60px;
+	height: 50px;
+	position: absolute;
+	top:18.5%;
+	left: 20%;
+}
+#ras1{
+	background-image: url(vk.png);
+	background-size: contain;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top:18%;
+	left: 15%;
+}
+#wew{
+	font-size: 30px;
+	color: black;
 }
