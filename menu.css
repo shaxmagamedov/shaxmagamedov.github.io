@@ -59,6 +59,7 @@ display: block;
 #body2{
 background-image: url(5.jpg);
 background-repeat: no-repeat;
+background-size: cover;
 }
 #at{
 color: blue;
@@ -105,7 +106,7 @@ body{
 }
 #we{
 	font-size: 30px;
-	color: purple;
+	color: red;
 }
 a{
 	text-decoration: none;
@@ -120,13 +121,14 @@ a{
 	text-transform: uppercase;
 }
 #trt{
-	background: white;
+	background-image: url(trt.jpg);
+	background-size: cover;
 }
 #rasul2{
 	background-image: url(rasul.jpg);
 	background-size: contain;
-	width: 360px;
-	height: 480px;
+	width: 250px;
+	height: 370px;
 	position: absolute;
 	top: 20%;
 	left: 50%;

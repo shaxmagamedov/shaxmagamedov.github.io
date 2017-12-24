@@ -1,0 +1,134 @@
+html{
+	background:white;
+}
+#mapa {
+	height: 700px;
+	width:1000px;
+	background: #8700a3;
+	margin: auto;
+	margin-top:100px; 
+	position: relative;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0px 10px 0px 0px #32013d;
+}
+div [id^="kor"]{
+	height: 180px;
+	width: 150px;
+	background:transparent;
+	background-image: url(korz.png);
+    background-repeat: no-repeat;
+	background-size: contain;
+}
+
+#kor_1{
+	position:absolute;
+	bottom: 0px;
+}
+#kor_0{
+	position:absolute;
+	bottom: 10px;
+	left: 430px;
+	background-image: url(vedro.png);
+	background-repeat: no-repeat;
+	background-size:contain;
+	height: 100px;
+	width: 100px;
+}
+#kor_2{
+	position:absolute;
+	bottom: 0px;
+	right: 0px;
+}
+#product{
+	background: transparent;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: 430px;
+	background-repeat: no-repeat;
+	background-size: contain;
+    z-index: 1; 
+    cursor: pointer;
+}
+#clone{
+	background: transparent;
+	height: 100px;
+	width: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	cursor: pointer;
+}
+div [id^="ball_"]{
+	position: absolute;
+	font-size: 250%;
+	margin: 0;
+	font-family: impact;
+}
+
+#ball_1{
+	bottom:180px;
+}
+#ball_0{
+	left:430px;
+	bottom: 110px;
+}
+#ball_2{
+	right:0px;
+	bottom: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body, html{
+	margin: 0;
+	padding: 0;
+}
+.container0{
+	width: 500px;
+	height: 400px;
+	margin: auto;
+	background: #f2f2f2;
+}
+.dots{
+	height: 200px;
+}
+.dot{
+	margin: auto;
+	width: 150px;
+	height: 150px;
+	background: #000;
+	border-radius: 100px;
+}
+.cunts{
+	background: #000;
+	height: 50px;	
+}
+.korz > div{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+}
+img{
+	width: 100px;
+	height: 100px;
+}*/
